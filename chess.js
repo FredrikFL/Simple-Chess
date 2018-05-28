@@ -1,8 +1,8 @@
 var selection  = {x:0, y:0};
 var current    = {x:0, y:0};
 var curBlack   = {x:0, y:0};
-var wiKingPos  = {x:7, y:3};
-var blKingPos  = {x:0, y:3};
+var wiKingPos  = {x:7, y:4};
+var blKingPos  = {x:0, y:4};
 
 var prevBoardStack = [];
 var turnNumber = 1;
